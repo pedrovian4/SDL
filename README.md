@@ -21,7 +21,7 @@
 # ***Desenvolvendo jogos usando SDL C/C++***
 
 
-<h3>O que sera abordado aqui?<h3\>
+<h3>O que será abordado aqui?<h3\>
 
 <ul>
 <li>SDL Lib<li\><br>

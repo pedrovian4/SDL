@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # ENGLISH VERSION
 # ***Developing a game using SDl and C/C++***

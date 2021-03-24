@@ -14,7 +14,7 @@
 :book: :book: :book: :book: 
 
 <h3>What is the Propose?<h3\>
-<br><p style="font-size:2">The repository propose is save my files while I'm learning SDL and applying knowloadgesof Data structure and Math to create games and other programs with GUI in C/C++ <p\>
+<br><p style="font-size:2">The repository propose is save my files while I'm learning SDL and applying knowledges of Data structure and Math to create games and other programs with GUI in C/C++ <p\>
 
 
 # Versão em Português

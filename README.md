@@ -8,7 +8,7 @@
 
 <ul>
 <li>SDL Lib<li\><br>
-<li>Data Structure<li\>><br>
+<li>Data Structure<li\><br>
 <li>Math applied to games <li\><br>
 <ul\>
 :book: :book: :book: :book: 
@@ -25,7 +25,7 @@
 
 <ul>
 <li>SDL Lib<li\><br>
-<li>Estrutura de dados<li\>><br>
+<li>Estrutura de dados<li\><br>
 <li>Matematica aplicada para jogos<li\><br>
 <ul\>
 :book: :book: :book: :book: 

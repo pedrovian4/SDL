@@ -32,6 +32,5 @@
 
 <h3>A que se Propõe?<h3\>
 <br><p style="font-size:2"> O objetivo do repositório é gravar de maneira filtrada meus avanços com Lib SDL e aplico conhecimentos de estrutura de dados e Matemática para criar programas e jogos  usando interface grafica em C/C++ <p\>
-=======
-# ***Developing gamez using SDl and C/C++***
+
 
